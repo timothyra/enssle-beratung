@@ -1,7 +1,20 @@
-#picstart 
-	{
-		max-width: 100%;
-   	height: auto;
-    	width: auto\9; /* ie8 */
-	}
+body 
+{ 
+   color:#000; 
+} 
 
+
+
+.text-center 
+{
+	text-align:center;
+}
+
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+.navbar li { color: #000 } 
+	
